@@ -19,7 +19,6 @@ public class task1 {
 
             if (number > randomNumber) {
                 System.out.println("Za dużo!");
-                System.out.println("Za dużo!");
             } else if (number < randomNumber) {
                 System.out.println("Za mało!");
             }
